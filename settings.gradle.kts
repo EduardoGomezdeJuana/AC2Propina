@@ -28,5 +28,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Tip Time"
+rootProject.name = "AC2Propina"
 include(":app")
